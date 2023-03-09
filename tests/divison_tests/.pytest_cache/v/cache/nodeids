@@ -1,0 +1,7 @@
+[
+  "test_01.py::test_division[10-2-5]",
+  "test_01.py::test_division[20-10-2]",
+  "test_01.py::test_division[30--10--3]",
+  "test_02.py::test_negative[TypeError-2]",
+  "test_02.py::test_negative[ZeroDivisionError-0]"
+]
