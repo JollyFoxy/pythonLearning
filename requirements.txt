@@ -1,5 +1,7 @@
 pytest==7.2.2
 selenium==4.8.2
-allure-pytest==2.13.0
-pytest-xdist==3.2.0
+allure-pytest==2.13.1
+pytest-xdist==3.2.1
 webdriver_manager==3.8.5
+termcolor==2.2.0
+
