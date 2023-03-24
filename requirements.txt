@@ -4,6 +4,7 @@ allure-pytest==2.13.1
 pytest-xdist==3.2.1
 webdriver_manager==3.8.5
 termcolor==2.2.0
+pytest-selenium==4.0.0
 
 
 requests~=2.28.2
