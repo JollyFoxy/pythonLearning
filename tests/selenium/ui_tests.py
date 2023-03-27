@@ -1,7 +1,5 @@
-from utils.web_driver import WebDriver
-
-driver = WebDriver.get_driver()
+from pages.page_buttons import ButtonPage
 
 
-class BaseTest:
-    pass
+def test_1(before, driver):
+ pass
